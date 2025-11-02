@@ -208,7 +208,7 @@ The interactive dashboard provides:
 
 ### Sample Visualization
 
-![Dashboard Preview](./POWERBII_SS/MAIN.png)
+![Dashboard Preview](./POWER/MAIN.png)
 
 ### Interactive Features
 
